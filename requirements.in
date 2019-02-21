@@ -10,7 +10,7 @@ celery
 Fabric3
 
 dj-database-url==0.4.2
-django>=2.0.8
+django>=2.1.6
 
 paramiko>=2.4.2
 psycopg2
@@ -24,6 +24,7 @@ pywb==2.0.0
 uWSGI==2.0.17
 wheel==0.30.0
 whitenoise==3.3.1
+pyyaml>=4.2b1
 
 -e git://github.com/anastasia/minhash.git@e8a3bd8f918088b6373a8638d719d61e20673920#egg=minhash
 
