@@ -11,6 +11,7 @@ Fabric3
 
 dj-database-url==0.4.2
 django>=2.1.6
+django_celery_results
 
 paramiko>=2.4.2
 psycopg2
